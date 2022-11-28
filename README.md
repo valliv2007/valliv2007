@@ -1,6 +1,6 @@
 # Hi! I am Ilya Snezhko, Python developer 👋
-## I use Python, Django, Django Rest Framework, SQL, Docker, Nginx, Unitest
-## I am looking for interesting job
+## I work with Python, Django, Django Rest Framework, SQL, Docker, Nginx, Unitest
+## I am looking for interesting job and friendly team
 ## How to reach me: valliv2007@ya.ru
 
 <!--
