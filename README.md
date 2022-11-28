@@ -1,4 +1,5 @@
-### Hi I am Ilya Snezhko, Python developer 👋
+## Hi! I am Ilya Snezhko, Python developer 👋
+
 
 <!--
 **valliv2007/valliv2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
