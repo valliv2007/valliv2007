@@ -1,7 +1,7 @@
 # Hi! I am Ilya Snezhko, Python developer 👋
 ## I work with Python, Django, Django Rest Framework, SQL, Docker, Nginx, Unitest
 ## I am looking for interesting job and friendly team
-## How to reach me: valliv2007@ya.ru
+## How to reach me: valliv2007@gmail.com
 
 <!--
 **valliv2007/valliv2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
